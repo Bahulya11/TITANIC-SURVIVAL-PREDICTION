@@ -4,7 +4,8 @@
 
 ### Built a predictive model to estimate survival chances of Titanic passengers using features such as age, gender, and ticket class. The dataset includes age, gender, ticket class, fare, cabin, and whether they survived or not. The model was trained using supervised learning techniques to classify passengers into survivors or non-survivors. Various algorithms like logistic regression and random forests were used, and the model’s performance was evaluated with precision, recall, and accuracy metrics. The project also included data preprocessing steps such as handling missing values and feature engineering to improve model performance.
 
- ![image](https://github.com/user-attachments/assets/32dc25af-1704-462d-93e2-2aa483a5474b)
+ ![image](https://github.com/user-attachments/assets/32dc25af-1704-462d-93e2-2aa483a5474b)     ![image](https://github.com/user-attachments/assets/5b18bbd2-eae4-46e5-b005-620f03f7208f)
+
 > [!IMPORTANT]
 > 
 > _**Programming Language:**_ Python
@@ -21,7 +22,6 @@
 
 ![image](https://github.com/user-attachments/assets/b42b80b8-d1e6-4a84-9e7b-50b2d7de55e4)
  
- ![image](https://github.com/user-attachments/assets/5b18bbd2-eae4-46e5-b005-620f03f7208f)
 
 
 
